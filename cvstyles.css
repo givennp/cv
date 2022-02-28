@@ -120,9 +120,8 @@ nav a:hover {
 }
 
 .projects p{
-    height: 20vh;
-    padding: 50px;
-    bottom: 50%;
+    height: 50vh;
+    padding-top: 25vh;
     
 }
 
@@ -137,4 +136,6 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 50vh;
+    padding-top: 25vh;
 }
